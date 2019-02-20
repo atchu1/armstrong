@@ -1,5 +1,4 @@
-public class Armstrong {
-
+ class Armstrong {
     public static void main(String[] args) {
 int num = 1634, originalNumber, rem, result = 0, n = 0;
 originalNumber = num;
